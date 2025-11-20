@@ -1,0 +1,6 @@
+@EjemploRailwayNube_HostAddress = http://localhost:5157
+
+GET {{EjemploRailwayNube_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
